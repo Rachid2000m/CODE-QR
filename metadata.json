@@ -1,0 +1,5 @@
+{
+  "name": "GenQR - AI Smart QR Generator",
+  "description": "Next-generation QR code creator. Use standard tools or Gemini AI to convert natural language requests (like 'WiFi for Guest pass 123') into perfectly formatted scannable codes.",
+  "requestFramePermissions": []
+}
